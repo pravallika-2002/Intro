@@ -3,6 +3,7 @@ version : 12.0
 ram : 4 GB
 cost : 12,000/-
 version : 13.0
+version : 11.0
 
 version : 20
 vesrion : 200.0
